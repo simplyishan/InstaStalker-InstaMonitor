@@ -1,0 +1,4 @@
+Add your proxies in the format:
+https://ip:port
+or 
+http://ip:port
